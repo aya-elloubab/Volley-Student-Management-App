@@ -62,6 +62,9 @@ Le backend PHP gère le stockage et la récupération des données via une API R
 3. Créez une base de données MySQL et importez le schéma de la base de données fourni.
 4. Mettez à jour les URL des points de terminaison API dans l'application Android pour pointer vers votre serveur local.
 
+## Video Démonstrative
+[Demo video] (https://drive.google.com/file/d/1UNx6YS4qwI8v3tC_KiLyHiSVZQ_KtS8H/view?usp=sharing)
+
 ## Captures d'écran
 
 <table>
@@ -103,3 +106,8 @@ Le backend PHP gère le stockage et la récupération des données via une API R
     <td></td>
   </tr>
 </table>
+
+
+
+
+
