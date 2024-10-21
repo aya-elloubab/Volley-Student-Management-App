@@ -62,33 +62,44 @@ Le backend PHP gère le stockage et la récupération des données via une API R
 3. Créez une base de données MySQL et importez le schéma de la base de données fourni.
 4. Mettez à jour les URL des points de terminaison API dans l'application Android pour pointer vers votre serveur local.
 
-## Captures d'ecran
+## Captures d'écran
 
-### Écran d'accueil
-<img src="images/HomePageFragment.png" alt="Écran d'accueil" width="300" height="600"/>
-<p align="center">L'écran d'accueil de l'application, présentant le logo et une animation d'introduction.</p>
-
-### Drawer
-<img src="images/DrawerMenu.png" alt="Drawer" width="300" height="600"/>
-<p align="center">Tiroir pour navigation entre les principales fonctionnalités de l'application.</p>
-
-### Fragment d'ajout d'étudiant
-<img src="images/AddStudentFragment.png" alt="Fragment d'ajout d'étudiant" width="300" height="600"/>
-<p align="center">Contient le formulaire pour ajouter de nouveaux étudiants.</p>
-
-### Fragment de liste d'étudiants
-<img src="images/StudentListFragment.png" alt="Fragment de liste d'étudiants" width="300" height="600"/>
-<p align="center"> Affiche la liste des étudiants.</p>
-
-### Écran de modification
-<img src="images/UpdateStudent.png" alt="Écran de modification" width="300" height="600"/>
-<p align="center">Gère les modifications des enregistrements d'étudiants.</p>
-
-### Écran de suppression
-<img src="images/SwipeDeleteStudent.png" alt="Écran de suppression" width="300" height="600"/>
-<p align="center">Gère les suppressions des enregistrements d'étudiants.</p>
-
-### Écran de filtrage des recherches
-<img src="images/FilteringSearch.png" alt="Écran de filtrage des recherches" width="300" height="600"/>
-<p align="center">Recherche des étudiants par nom, prénom ou ville en temps réel.</p>
-
+<table>
+  <tr>
+    <td>
+      <img src="images/HomePageFragment.png" alt="Écran d'accueil" width="300" height="600"/>
+      <p align="center">L'écran d'accueil de l'application, présentant le logo et une animation d'introduction.</p>
+    </td>
+    <td>
+      <img src="images/DrawerMenu.png" alt="Drawer" width="300" height="600"/>
+      <p align="center">Tiroir pour navigation entre les principales fonctionnalités de l'application.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="images/AddStudentFragment.png" alt="Fragment d'ajout d'étudiant" width="300" height="600"/>
+      <p align="center">Contient le formulaire pour ajouter de nouveaux étudiants.</p>
+    </td>
+    <td>
+      <img src="images/StudentListFragment.png" alt="Fragment de liste d'étudiants" width="300" height="600"/>
+      <p align="center">Affiche la liste des étudiants.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="images/UpdateStudent.png" alt="Écran de modification" width="300" height="600"/>
+      <p align="center">Gère les modifications des enregistrements d'étudiants.</p>
+    </td>
+    <td>
+      <img src="images/SwipeDeleteStudent.png" alt="Écran de suppression" width="300" height="600"/>
+      <p align="center">Gère les suppressions des enregistrements d'étudiants.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="images/FilteringSearch.png" alt="Écran de filtrage des recherches" width="300" height="600"/>
+      <p align="center">Recherche des étudiants par nom, prénom ou ville en temps réel.</p>
+    </td>
+    <td></td>
+  </tr>
+</table>
